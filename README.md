@@ -1,6 +1,6 @@
 # learn-cicd-typescript-starter (Notely)
 
-CICD--Typescript
+CICD-Local--Typescript
 
 ## Local Development
 
