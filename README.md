@@ -1,3 +1,5 @@
+https://github.com/<AjayRajNegi>/<CICD-Local--Typescript>/actions/workflows/<ci.yml>/badge.svg
+
 # learn-cicd-typescript-starter (Notely)
 
 CICD-Local--Typescript
