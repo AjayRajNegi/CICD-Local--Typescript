@@ -1,4 +1,4 @@
-https://github.com/<AjayRajNegi>/<CICD-Local--Typescript>/actions/workflows/<ci.yml>/badge.svg
+![Github workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
