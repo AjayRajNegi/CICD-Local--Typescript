@@ -1,0 +1,12 @@
+{
+  "ImageRepository": {
+    "ImageIdentifier": "273354655616.dkr.ecr.eu-west-1.amazonaws.com/notely-deploy:latest",
+    "ImageRepositoryType": "ECR",
+    "ImageConfiguration": {
+      "Port": "8080"
+    }
+  },
+  "AuthenticationConfiguration": {
+    "AccessRoleArn": "arn:aws:iam::273354655616:role/AppRunnerECRAccessRole"
+  }
+}
